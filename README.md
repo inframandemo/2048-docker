@@ -2,7 +2,7 @@
 
 Hosted on GitHub Pages: https://agrawpri.github.io/2048-docker/    fh
 
-This is a dockerized version of the 2048 game cloned from https://github.com/gabrielecirulli/2048.  
+This is a dockerized version of the 2048 game cloned from https://github.com/gabrielecirulli/2048.     
 
 # Local development
 
