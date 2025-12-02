@@ -1,4 +1,4 @@
-![Docker Image Size (tag)](https://img.shields.io/docker/image-size/agrawpri/2048-docker/latest) canary
+![Docker Image Size (tag)](https://img.shields.io/docker/image-size/agrawpri/2048-docker/latest) canary i knwo 
 
 Hosted on GitHub Pages: https://agrawpri.github.io/2048-docker/    fh
 
