@@ -22,7 +22,7 @@ This is a dockerized version of the 2048 game cloned from https://github.com/gab
 4. `docker run --rm -p 80:80 2048`
 5. Visit `http://localhost:80`
 
-
+fdsfdf
 
 
 
